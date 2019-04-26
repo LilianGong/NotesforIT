@@ -2,20 +2,20 @@
 
 * creat folder<br>
 mkdir my-first-folder
-* check if xxx software is installed
+* check if xxx software is installed<br>
 dpkg -s xxx
-*  update xxx software
+*  update xxx software<br>
 dpkg -s xxx sudo apt-get install -f
 
-* download software that is commonly used
+* download software that is commonly used<br>
 sudo apt-get update # make sure linux updated to the newest directory
 sudo apt-get install firefox (etc.)
-* delete software
+* delete software<br>
 sudo apt-get remove xxx
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2MDc5MzU3MywtMTI2OTc3ODYwMV19
+eyJoaXN0b3J5IjpbLTg5Nzc5ODU1NSwtMTI2OTc3ODYwMV19
 -->

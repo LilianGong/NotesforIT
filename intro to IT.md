@@ -1,6 +1,6 @@
 ## Basic Code for Bash/Zsh
 
-* creat folder
+* creat folder<br>
 mkdir my-first-folder
 * check if xxx software is installed
 dpkg -s xxx
@@ -17,5 +17,5 @@ sudo apt-get remove xxx
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjk3Nzg2MDFdfQ==
+eyJoaXN0b3J5IjpbMTM2MDc5MzU3MywtMTI2OTc3ODYwMV19
 -->

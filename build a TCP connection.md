@@ -17,13 +17,13 @@ Here are the detailed steps of building a TCP connection between  computer 1 and
 
 5. Next, the TCP segment was inserted as the data payload for the IP datagram with a **checksum** to calculate for the whole thing. The IP header included the source IP address, the destination IP address, and a **TTL of 64**. *\<network layer>*
 
-6. Then, the IP datagram was inserted as the data payload for the Ethernet frame which also contained the information of the source and destination MAC address (00:11:22:33:44:55) to the gateway. and another **checksum** is calculated and checked.* \<data link layer>*
+6. Then, the IP datagram was inserted as the data payload for the Ethernet frame which also contained the information of the source and destination MAC address (00:11:22:33:44:55) to the gateway. and another **checksum** is calculated and checked.*\<data link layer>*
 
 7. Next, the switch received the whole Ethernet frame and inspected its destination MAC address, then sent the binary data from computer 1 through a CAT6 cable to the gateway of Router C. Router C calculated the checksum and compared this checksum with the one in the Ethernet frame and check if they match. *\<physical layer, data link layer>*
 
 8. Then, router C striped away the Ethernet frame, leaving it with just the IP datagram. Again it performed the checksum check against the IP datagram to make sure all data were received.* \<data link layer>*
 
-9. Next, router C inspected the destination IP address in the IP datagram, and lookup it up on its **routing table** and found itself was connected to the network B where the computer 2 lied in.* \<network layer>*
+9. Next, router C inspected the destination IP address in the IP datagram, and lookup it up on its **routing table** and found itself was connected to the network B where the computer 2 lied in.*\<network layer>*
 
 10. Then, router C decremented the TTL by 1 and recalculated a new checksum, then made a new IP datagram with this data and sent it to the computer 2 though the gateway: 192.168.1.1. *\<network layer>*
 
@@ -31,5 +31,5 @@ Here are the detailed steps of building a TCP connection between  computer 1 and
 
 Till now, we’ve finally finished a single TCP segment containing a SYN flag from computer 1 to computer 2.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzMDU1MzYwMV19
+eyJoaXN0b3J5IjpbLTg0MTkyNDg5LC02MzA1NTM2MDFdfQ==
 -->

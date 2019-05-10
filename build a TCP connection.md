@@ -21,15 +21,15 @@ Here are the detailed steps of building a TCP connection between  computer 1 and
 
 7. Next, the switch received the whole Ethernet frame and inspected its destination MAC address, then sent the binary data from computer 1 through a CAT6 cable to the gateway of Router C. Router C calculated the checksum and compared this checksum with the one in the Ethernet frame and check if they match. *\<physical layer, data link layer>*
 
-8. Then, router C striped away the Ethernet frame, leaving it with just the IP datagram. Again it performed the checksum check against the IP datagram to make sure all data were received.* \<data link layer>*
+8. Then, router C striped away the Ethernet frame, leaving it with just the IP datagram. Again it performed the checksum check against the IP datagram to make sure all data were received.*\<data link layer>*
 
 9. Next, router C inspected the destination IP address in the IP datagram, and lookup it up on its **routing table** and found itself was connected to the network B where the computer 2 lied in.*\<network layer>*
 
 10. Then, router C decremented the TTL by 1 and recalculated a new checksum, then made a new IP datagram with this data and sent it to the computer 2 though the gateway: 192.168.1.1. *\<network layer>*
 
-11. Next, computer 2 striped the IP datagram, leaving it with just the TCP segment. Again, the checksum for this layer was examined, and the destination port was examined and checked too. Computer 2 then saw that this packet has the SYN flag set. So it examined the sequence number and stores that, since it would need to put that sequence number in the acknowledgement field once it crafts the response.* \<transport layer>*
+11. Next, computer 2 striped the IP datagram, leaving it with just the TCP segment. Again, the checksum for this layer was examined, and the destination port was examined and checked too. Computer 2 then saw that this packet has the SYN flag set. So it examined the sequence number and stores that, since it would need to put that sequence number in the acknowledgement field once it crafts the response.*\<transport layer>*
 
 Till now, we’ve finally finished a single TCP segment containing a SYN flag from computer 1 to computer 2.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0MTkyNDg5LC02MzA1NTM2MDFdfQ==
+eyJoaXN0b3J5IjpbLTkwOTM5Njc3MSwtNjMwNTUzNjAxXX0=
 -->

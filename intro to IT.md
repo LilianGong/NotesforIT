@@ -1,14 +1,14 @@
 ## Basic Code for Bash/Zsh
 
-* list directory<br>
+* #### list directory<br>
 ls / *show files in the root directory*<br>
 ls ~/workspace<br>
 ls -l ~/workspace *list detailed 
 information*<br>
 ls -l -a ~/workspace *list all files including hidden files*<br>
 * change directories <br>
-cd /users/lilian *use definite directory*
-cd ~/lilian *use relative directory*
+cd /users/lilian *use absolute directory*<br>
+cd ~/lilian *use relative directory*<br>
 * creat folder<br>
 mkdir my-first-folder<br>
 * check if xxx software is installed<br>
@@ -26,6 +26,6 @@ sudo apt-get remove xxx
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjU0MjM2MiwtNTgzODY4MDU2LDEwNT
-U4ODY4MywtODk3Nzk4NTU1LC0xMjY5Nzc4NjAxXX0=
+eyJoaXN0b3J5IjpbLTExOTExMzY2NTUsLTU4Mzg2ODA1NiwxMD
+U1ODg2ODMsLTg5Nzc5ODU1NSwtMTI2OTc3ODYwMV19
 -->

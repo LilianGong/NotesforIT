@@ -6,8 +6,11 @@ ls ~/workspace<br>
 ls -l ~/workspace *list detailed 
 information*<br>
 ls -l -a ~/workspace *list all files including hidden files*<br>
+* change directories <br>
+cd /users/lilian *use definite directory*
+cd ~/lilian *use relative directory*
 * creat folder<br>
-mkdir my-first-folder
+mkdir my-first-folder<br>
 * check if xxx software is installed<br>
 dpkg -s xxx
 *  update xxx software<br>
@@ -23,6 +26,6 @@ sudo apt-get remove xxx
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4Mzg2ODA1NiwxMDU1ODg2ODMsLTg5Nz
-c5ODU1NSwtMTI2OTc3ODYwMV19
+eyJoaXN0b3J5IjpbLTEyNjU0MjM2MiwtNTgzODY4MDU2LDEwNT
+U4ODY4MywtODk3Nzk4NTU1LC0xMjY5Nzc4NjAxXX0=
 -->

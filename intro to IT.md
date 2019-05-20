@@ -30,6 +30,11 @@ dpkg -s xxx sudo apt-get install -f<br>
 * #### remove files and directories<br>
 rm ~/yellow.txt *remove a file*<br>
 rm -r ~/my_file *remove a directory*<br>
+* #### display file contents<br>
+cat ~/yellow.txt <br> *display the whole file*
+more ~/large_file.txt<br> **
+
+
 * #### download software that is commonly used<br>
 sudo apt-get update # make sure linux updated to the newest directory
 sudo apt-get install firefox (etc.)
@@ -40,7 +45,8 @@ sudo apt-get remove xxx
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTUxNzEyNDUsLTIwODY4MjM1MDcsOD
-g2NTUzNjAzLC0xMzU0Mzg5MzAzLC01ODM4NjgwNTYsMTA1NTg4
-NjgzLC04OTc3OTg1NTUsLTEyNjk3Nzg2MDFdfQ==
+eyJoaXN0b3J5IjpbLTEyNzcwODY0MTQsLTE3MTUxNzEyNDUsLT
+IwODY4MjM1MDcsODg2NTUzNjAzLC0xMzU0Mzg5MzAzLC01ODM4
+NjgwNTYsMTA1NTg4NjgzLC04OTc3OTg1NTUsLTEyNjk3Nzg2MD
+FdfQ==
 -->

@@ -26,6 +26,7 @@ mv ~/yellow.txt ~/lilian *move file without renaming*<br>
 * #### remove files and directories<br>
 rm ~/yellow.txt *remove a file*<br>
 rm -r ~/my_file *remove a directory*<br>
+rmdir ~/my_file *remove a empty directory* <br>
 
 * #### display file contents<br>
 cat ~/yellow.txt  *display the whole file*<br> 
@@ -57,9 +58,9 @@ sudo apt-get remove xxx
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODIwNDM5NDYsLTczMTM5MDc3NSw2Mj
-Q5NDMzNDcsMTYwMDYyMTQ1MywtMTI3NzA4NjQxNCwtMTcxNTE3
-MTI0NSwtMjA4NjgyMzUwNyw4ODY1NTM2MDMsLTEzNTQzODkzMD
-MsLTU4Mzg2ODA1NiwxMDU1ODg2ODMsLTg5Nzc5ODU1NSwtMTI2
-OTc3ODYwMV19
+eyJoaXN0b3J5IjpbMjcwMTMyMzM5LC0xNzgyMDQzOTQ2LC03Mz
+EzOTA3NzUsNjI0OTQzMzQ3LDE2MDA2MjE0NTMsLTEyNzcwODY0
+MTQsLTE3MTUxNzEyNDUsLTIwODY4MjM1MDcsODg2NTUzNjAzLC
+0xMzU0Mzg5MzAzLC01ODM4NjgwNTYsMTA1NTg4NjgzLC04OTc3
+OTg1NTUsLTEyNjk3Nzg2MDFdfQ==
 -->

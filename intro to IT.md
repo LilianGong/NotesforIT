@@ -12,6 +12,8 @@ cd ~/lilian *use relative directory*<br>
 * #### creat folder<br>
 mkdir my-first-folder<br>
 mkdir my\ first\ folder *use backslash to interprete the space* <br> 
+* #### creat file<br>
+touch my_first_file.txt <br>
 * #### check the input line history<br>
 history *show all past history*<br>
 ctrl+R *search for certain history*<br>
@@ -58,9 +60,9 @@ sudo apt-get remove xxx
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjcwMTMyMzM5LC0xNzgyMDQzOTQ2LC03Mz
-EzOTA3NzUsNjI0OTQzMzQ3LDE2MDA2MjE0NTMsLTEyNzcwODY0
-MTQsLTE3MTUxNzEyNDUsLTIwODY4MjM1MDcsODg2NTUzNjAzLC
-0xMzU0Mzg5MzAzLC01ODM4NjgwNTYsMTA1NTg4NjgzLC04OTc3
-OTg1NTUsLTEyNjk3Nzg2MDFdfQ==
+eyJoaXN0b3J5IjpbMTUzODg5NjYwNSwyNzAxMzIzMzksLTE3OD
+IwNDM5NDYsLTczMTM5MDc3NSw2MjQ5NDMzNDcsMTYwMDYyMTQ1
+MywtMTI3NzA4NjQxNCwtMTcxNTE3MTI0NSwtMjA4NjgyMzUwNy
+w4ODY1NTM2MDMsLTEzNTQzODkzMDMsLTU4Mzg2ODA1NiwxMDU1
+ODg2ODMsLTg5Nzc5ODU1NSwtMTI2OTc3ODYwMV19
 -->

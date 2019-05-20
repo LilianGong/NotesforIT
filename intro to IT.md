@@ -37,11 +37,10 @@ tail large_file.txt *tail 10 lines in the file* <br>
 * #### search within files<br>
 grep import *.py *search 'import' in all python files* <br>
 
-*#### input <br>
+*#### I/O redirect <br>
 echo woof > dogs.txt *put a word in  a file that overwrite the previous contents*<br>
 echo woof >> dogs.txt *put a word in  a file without overwriting the previous contents*<br>
 ls ~/non_exist.txt 2> /dev/null *output the standard error* <br>
-
 
 * #### check if xxx software is installed<br>
 dpkg -s xxx
@@ -58,8 +57,9 @@ sudo apt-get remove xxx
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczMTM5MDc3NSw2MjQ5NDMzNDcsMTYwMD
-YyMTQ1MywtMTI3NzA4NjQxNCwtMTcxNTE3MTI0NSwtMjA4Njgy
-MzUwNyw4ODY1NTM2MDMsLTEzNTQzODkzMDMsLTU4Mzg2ODA1Ni
-wxMDU1ODg2ODMsLTg5Nzc5ODU1NSwtMTI2OTc3ODYwMV19
+eyJoaXN0b3J5IjpbLTE3ODIwNDM5NDYsLTczMTM5MDc3NSw2Mj
+Q5NDMzNDcsMTYwMDYyMTQ1MywtMTI3NzA4NjQxNCwtMTcxNTE3
+MTI0NSwtMjA4NjgyMzUwNyw4ODY1NTM2MDMsLTEzNTQzODkzMD
+MsLTU4Mzg2ODA1NiwxMDU1ODg2ODMsLTg5Nzc5ODU1NSwtMTI2
+OTc3ODYwMV19
 -->

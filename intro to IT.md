@@ -32,8 +32,10 @@ cat ~/yellow.txt  *display the whole file*<br>
 less ~/large_file.txt *display the first page, and use enter /down to go by lines, use tab to go by pages, q to quit, g to the first line, G to the end of the file, and /word_search to search for certain words/phrases* <br> 
 head large_file.txt *head 10 lines in the file* <br>
 tail large_file.txt *tail 10 lines in the file* <br>
+
+
 * #### search within files<br>
-grep cow *.txt *search 'cow' in all txt files* 
+grep import *.py *search 'import' in all python files* <br>
 
 * #### check if xxx software is installed<br>
 dpkg -s xxx
@@ -50,8 +52,8 @@ sudo apt-get remove xxx
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDk1NzY0MjQsMTYwMDYyMTQ1MywtMT
-I3NzA4NjQxNCwtMTcxNTE3MTI0NSwtMjA4NjgyMzUwNyw4ODY1
-NTM2MDMsLTEzNTQzODkzMDMsLTU4Mzg2ODA1NiwxMDU1ODg2OD
-MsLTg5Nzc5ODU1NSwtMTI2OTc3ODYwMV19
+eyJoaXN0b3J5IjpbNjI0OTQzMzQ3LDE2MDA2MjE0NTMsLTEyNz
+cwODY0MTQsLTE3MTUxNzEyNDUsLTIwODY4MjM1MDcsODg2NTUz
+NjAzLC0xMzU0Mzg5MzAzLC01ODM4NjgwNTYsMTA1NTg4NjgzLC
+04OTc3OTg1NTUsLTEyNjk3Nzg2MDFdfQ==
 -->

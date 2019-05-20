@@ -1,6 +1,9 @@
 ## Basic Code for Bash/Zsh
 
-*
+* list directory<br>
+ls ~/workspace<br>
+list hidden files<br>
+ls -Force ~/workspace<br>
 * creat folder<br>
 mkdir my-first-folder
 * check if xxx software is installed<br>
@@ -18,6 +21,6 @@ sudo apt-get remove xxx
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjM2Nzc2NDEsLTg5Nzc5ODU1NSwtMT
-I2OTc3ODYwMV19
+eyJoaXN0b3J5IjpbMTA1NTg4NjgzLC04OTc3OTg1NTUsLTEyNj
+k3Nzg2MDFdfQ==
 -->

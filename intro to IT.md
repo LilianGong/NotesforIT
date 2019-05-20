@@ -1,6 +1,7 @@
 ## Basic Code for Bash/Zsh
 
 * list directory<br>
+ls / *show files in the root directory*<br>
 ls ~/workspace<br>
 list hidden files<br>
 ls -Force ~/workspace<br>
@@ -21,6 +22,6 @@ sudo apt-get remove xxx
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1NTg4NjgzLC04OTc3OTg1NTUsLTEyNj
-k3Nzg2MDFdfQ==
+eyJoaXN0b3J5IjpbLTEwNDA0MzQ5OTIsMTA1NTg4NjgzLC04OT
+c3OTg1NTUsLTEyNjk3Nzg2MDFdfQ==
 -->

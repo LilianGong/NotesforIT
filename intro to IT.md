@@ -19,7 +19,9 @@ clear *remove all input history* <br>
 * #### copy files and directories<br>
 cp *.png ~/lilian *copy all png files into ~/lilian* <br>
 cp -r my_file ~/lilian *copy my_file and all subject directories and files into ~/lilian*  <br>
-
+* #### move and rename files and directories<br>
+mv ~/yellow.txt ~/blue.txt *rename file without*<br>
+mv ~/yellow.txt ~/lilian<br>
 
 * #### check if xxx software is installed<br>
 dpkg -s xxx
@@ -36,7 +38,7 @@ sudo apt-get remove xxx
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODY4MjM1MDcsODg2NTUzNjAzLC0xMz
-U0Mzg5MzAzLC01ODM4NjgwNTYsMTA1NTg4NjgzLC04OTc3OTg1
-NTUsLTEyNjk3Nzg2MDFdfQ==
+eyJoaXN0b3J5IjpbLTg1Njk5NTE2NSwtMjA4NjgyMzUwNyw4OD
+Y1NTM2MDMsLTEzNTQzODkzMDMsLTU4Mzg2ODA1NiwxMDU1ODg2
+ODMsLTg5Nzc5ODU1NSwtMTI2OTc3ODYwMV19
 -->

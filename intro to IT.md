@@ -32,7 +32,7 @@ rm ~/yellow.txt *remove a file*<br>
 rm -r ~/my_file *remove a directory*<br>
 * #### display file contents<br>
 cat ~/yellow.txt <br> *display the whole file*
-less ~/large_file.txt<br> *display the first page, and use enter to go by lines, use tab to go by pages, and q to quit*
+less ~/large_file.txt<br> *display the first page, and use enter /down to go by lines, use tab to go by pages, q to quit, g to the first line, G t*
 
 
 * #### download software that is commonly used<br>
@@ -45,7 +45,7 @@ sudo apt-get remove xxx
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE1NTYyMDc5LC0xMjc3MDg2NDE0LC0xNz
+eyJoaXN0b3J5IjpbMzI5NzQ1MDAxLC0xMjc3MDg2NDE0LC0xNz
 E1MTcxMjQ1LC0yMDg2ODIzNTA3LDg4NjU1MzYwMywtMTM1NDM4
 OTMwMywtNTgzODY4MDU2LDEwNTU4ODY4MywtODk3Nzk4NTU1LC
 0xMjY5Nzc4NjAxXX0=

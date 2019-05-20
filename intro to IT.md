@@ -40,7 +40,7 @@ grep import *.py *search 'import' in all python files* <br>
 *#### input <br>
 echo woof > dogs.txt *put a word in  a file that overwrite the previous contents*<br>
 echo woof >> dogs.txt *put a word in  a file without overwriting the previous contents*<br>
-ls ~/non_exist.txt 2> /dev/null *output the standard*
+ls ~/non_exist.txt 2> /dev/null *output the standard error* <br>
 
 
 * #### check if xxx software is installed<br>
@@ -58,7 +58,7 @@ sudo apt-get remove xxx
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0MDk1OTQzMyw2MjQ5NDMzNDcsMTYwMD
+eyJoaXN0b3J5IjpbLTczMTM5MDc3NSw2MjQ5NDMzNDcsMTYwMD
 YyMTQ1MywtMTI3NzA4NjQxNCwtMTcxNTE3MTI0NSwtMjA4Njgy
 MzUwNyw4ODY1NTM2MDMsLTEzNTQzODkzMDMsLTU4Mzg2ODA1Ni
 wxMDU1ODg2ODMsLTg5Nzc5ODU1NSwtMTI2OTc3ODYwMV19

@@ -15,7 +15,10 @@ mkdir my\ first\ folder *use backslash to interprete the space* <br>
 * #### check the input line history<br>
 history <br>
 ctrl+R *search for certain history*<br>
-clear *remove all input history* 
+clear *remove all input history* <br>
+* #### copy files and directories<br>
+cp *.png ~/lilian *copy all png files into ~/lilian* <br>
+cp -r my_file ~/lilian *copy my_file and all sub-directo* 
 
 
 * #### check if xxx software is installed<br>
@@ -33,7 +36,7 @@ sudo apt-get remove xxx
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg2NTUzNjAzLC0xMzU0Mzg5MzAzLC01OD
-M4NjgwNTYsMTA1NTg4NjgzLC04OTc3OTg1NTUsLTEyNjk3Nzg2
-MDFdfQ==
+eyJoaXN0b3J5IjpbODczNjgxNDgxLDg4NjU1MzYwMywtMTM1ND
+M4OTMwMywtNTgzODY4MDU2LDEwNTU4ODY4MywtODk3Nzk4NTU1
+LC0xMjY5Nzc4NjAxXX0=
 -->

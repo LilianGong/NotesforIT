@@ -3,8 +3,8 @@
 * list directory<br>
 ls / *show files in the root directory*<br>
 ls ~/workspace<br>
-list hidden files<br>
-ls -Force ~/workspace<br>
+ls -Force ~/workspace *list hidden files*<br>
+ls -l ~/workspace *list detailed information*<br>
 * creat folder<br>
 mkdir my-first-folder
 * check if xxx software is installed<br>
@@ -22,6 +22,6 @@ sudo apt-get remove xxx
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDA0MzQ5OTIsMTA1NTg4NjgzLC04OT
-c3OTg1NTUsLTEyNjk3Nzg2MDFdfQ==
+eyJoaXN0b3J5IjpbMjAzNDQ1MDM3MCwxMDU1ODg2ODMsLTg5Nz
+c5ODU1NSwtMTI2OTc3ODYwMV19
 -->

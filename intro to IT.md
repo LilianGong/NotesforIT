@@ -27,6 +27,7 @@ mv ~/yellow.txt ~/lilian *move file without renaming*<br>
 dpkg -s xxx
 * ####  update xxx software<br>
 dpkg -s xxx sudo apt-get install -f<br>
+* #### remove files and directories<br>
 
 * #### download software that is commonly used<br>
 sudo apt-get update # make sure linux updated to the newest directory
@@ -38,7 +39,7 @@ sudo apt-get remove xxx
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE3NDYxOTQ1LC0yMDg2ODIzNTA3LDg4Nj
-U1MzYwMywtMTM1NDM4OTMwMywtNTgzODY4MDU2LDEwNTU4ODY4
-MywtODk3Nzk4NTU1LC0xMjY5Nzc4NjAxXX0=
+eyJoaXN0b3J5IjpbLTE2NjM2NjkyNTQsLTIwODY4MjM1MDcsOD
+g2NTUzNjAzLC0xMzU0Mzg5MzAzLC01ODM4NjgwNTYsMTA1NTg4
+NjgzLC04OTc3OTg1NTUsLTEyNjk3Nzg2MDFdfQ==
 -->

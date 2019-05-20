@@ -11,7 +11,7 @@ cd /users/lilian *use absolute directory*<br>
 cd ~/lilian *use relative directory*<br>
 * #### creat folder<br>
 mkdir my-first-folder<br>
-mkdir my/ cool' folder *interprete the space* <br> 
+mkdir my\ first\ folder *use backslash to interprete the space* <br> 
 * #### check if xxx software is installed<br>
 dpkg -s xxx
 * ####  update xxx software<br>
@@ -27,7 +27,7 @@ sudo apt-get remove xxx
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTUxNDE4NTIsLTEzNTQzODkzMDMsLT
-U4Mzg2ODA1NiwxMDU1ODg2ODMsLTg5Nzc5ODU1NSwtMTI2OTc3
-ODYwMV19
+eyJoaXN0b3J5IjpbLTU0MjU2MDExLC0xMzU0Mzg5MzAzLC01OD
+M4NjgwNTYsMTA1NTg4NjgzLC04OTc3OTg1NTUsLTEyNjk3Nzg2
+MDFdfQ==
 -->

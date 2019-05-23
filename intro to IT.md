@@ -45,6 +45,16 @@ echo woof > dogs.txt *put a word in  a file that overwrite the previous contents
 echo woof >> dogs.txt *put a word in  a file without overwriting the previous contents*<br>
 ls ~/non_exist.txt 2> /dev/null *output the standard error* <br>
 
+*#### check users <br>
+echo woof > dogs.txt *put a word in  a file that overwrite the previous contents*<br>
+echo woof >> dogs.txt *put a word in  a file without overwriting the previous contents*<br>
+ls ~/non_exist.txt 2> /dev/null *output the standard error* <br>
+
+
+
+
+
+
 * #### check if xxx software is installed<br>
 dpkg -s xxx
 * ####  update xxx software<br>
@@ -60,9 +70,10 @@ sudo apt-get remove xxx
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzODg5NjYwNSwyNzAxMzIzMzksLTE3OD
-IwNDM5NDYsLTczMTM5MDc3NSw2MjQ5NDMzNDcsMTYwMDYyMTQ1
-MywtMTI3NzA4NjQxNCwtMTcxNTE3MTI0NSwtMjA4NjgyMzUwNy
-w4ODY1NTM2MDMsLTEzNTQzODkzMDMsLTU4Mzg2ODA1NiwxMDU1
-ODg2ODMsLTg5Nzc5ODU1NSwtMTI2OTc3ODYwMV19
+eyJoaXN0b3J5IjpbLTEyMzY5MjAxMSwxNTM4ODk2NjA1LDI3MD
+EzMjMzOSwtMTc4MjA0Mzk0NiwtNzMxMzkwNzc1LDYyNDk0MzM0
+NywxNjAwNjIxNDUzLC0xMjc3MDg2NDE0LC0xNzE1MTcxMjQ1LC
+0yMDg2ODIzNTA3LDg4NjU1MzYwMywtMTM1NDM4OTMwMywtNTgz
+ODY4MDU2LDEwNTU4ODY4MywtODk3Nzk4NTU1LC0xMjY5Nzc4Nj
+AxXX0=
 -->

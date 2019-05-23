@@ -65,6 +65,7 @@ ls -l filename <br>*output instance: -rwxr-r- 1 lilian  staff, the first 'rwx' m
 
 * #### modify permissions (read write & execute) of files <br>
 chmod u+x filename  *u = user, g = group, o=everyone; + : add, - : remove; x = execute, r = read, w = write*<br>
+chmod ugo-x filename  *u = user, g = group, o=everyone; + : add, - : remove; x = execute, r = read, w = write*<br>
 
 
 
@@ -86,11 +87,11 @@ sudo apt-get remove xxx
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxNjkwMTE4MiwtMTU2NzI3ODI5Nyw2NT
-A0Mzg3NjgsMzUwMTU2NDk2LC02ODIyMzQxNTMsMTI3MTQ3ODMy
-MCwtMjAzMDE0OTE3NSwtMTIzNjkyMDExLDE1Mzg4OTY2MDUsMj
-cwMTMyMzM5LC0xNzgyMDQzOTQ2LC03MzEzOTA3NzUsNjI0OTQz
-MzQ3LDE2MDA2MjE0NTMsLTEyNzcwODY0MTQsLTE3MTUxNzEyND
-UsLTIwODY4MjM1MDcsODg2NTUzNjAzLC0xMzU0Mzg5MzAzLC01
-ODM4NjgwNTZdfQ==
+eyJoaXN0b3J5IjpbMTg1ODMyMTM3MCwtNzE2OTAxMTgyLC0xNT
+Y3Mjc4Mjk3LDY1MDQzODc2OCwzNTAxNTY0OTYsLTY4MjIzNDE1
+MywxMjcxNDc4MzIwLC0yMDMwMTQ5MTc1LC0xMjM2OTIwMTEsMT
+UzODg5NjYwNSwyNzAxMzIzMzksLTE3ODIwNDM5NDYsLTczMTM5
+MDc3NSw2MjQ5NDMzNDcsMTYwMDYyMTQ1MywtMTI3NzA4NjQxNC
+wtMTcxNTE3MTI0NSwtMjA4NjgyMzUwNyw4ODY1NTM2MDMsLTEz
+NTQzODkzMDNdfQ==
 -->

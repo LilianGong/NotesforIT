@@ -1,4 +1,4 @@
-## Basic Code for Bash/Zsh
+## Basic Code for Bash/Zsh--LINUX
 
 * #### list directory<br>
 ls / *show files in the root directory*<br>
@@ -40,15 +40,17 @@ tail large_file.txt *tail 10 lines in the file* <br>
 * #### search within files<br>
 grep import *.py *search 'import' in all python files* <br>
 
-*#### I/O redirect <br>
+* #### I/O redirect <br>
 echo woof > dogs.txt *put a word in  a file that overwrite the previous contents*<br>
 echo woof >> dogs.txt *put a word in  a file without overwriting the previous contents*<br>
 ls ~/non_exist.txt 2> /dev/null *output the standard error* <br>
 
-*#### c <br>
-echo woof > dogs.txt *put a word in  a file that overwrite the previous contents*<br>
-echo woof >> dogs.txt *put a word in  a file without overwriting the previous contents*<br>
-ls ~/non_exist.txt 2> /dev/null *output the standard error* <br>
+* #### get into root account <br>
+sudo su - *get into the root account, using 'exit' to exit*<br>
+
+* #### get  <br>
+sudo su - *get into the root account, using 'exit' to exit*<br>
+
 
 
 
@@ -70,7 +72,7 @@ sudo apt-get remove xxx
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5MDQyMTEyMiwtMTIzNjkyMDExLDE1Mz
+eyJoaXN0b3J5IjpbMTI1MDE2MTk0NCwtMTIzNjkyMDExLDE1Mz
 g4OTY2MDUsMjcwMTMyMzM5LC0xNzgyMDQzOTQ2LC03MzEzOTA3
 NzUsNjI0OTQzMzQ3LDE2MDA2MjE0NTMsLTEyNzcwODY0MTQsLT
 E3MTUxNzEyNDUsLTIwODY4MjM1MDcsODg2NTUzNjAzLC0xMzU0

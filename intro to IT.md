@@ -57,8 +57,8 @@ passwd lilian *change password for user lilian*<br>
 sudo passwd -e victor *force user victor to change passwd everytime re-enter the computer, -e means 'expire'*<br>
 
 * #### add and remove users <br>
-sudo useradd andra **<br>
-sudo userdel andra *force user victor to change passwd everytime re-enter the computer, -e means 'expire'*<br>
+sudo useradd andra *add*<br>
+sudo userdel andra *remove*<br>
 
 
 
@@ -80,7 +80,7 @@ sudo apt-get remove xxx
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczOTE5NzQ3MSwxMjcxNDc4MzIwLC0yMD
+eyJoaXN0b3J5IjpbLTY4MjIzNDE1MywxMjcxNDc4MzIwLC0yMD
 MwMTQ5MTc1LC0xMjM2OTIwMTEsMTUzODg5NjYwNSwyNzAxMzIz
 MzksLTE3ODIwNDM5NDYsLTczMTM5MDc3NSw2MjQ5NDMzNDcsMT
 YwMDYyMTQ1MywtMTI3NzA4NjQxNCwtMTcxNTE3MTI0NSwtMjA4

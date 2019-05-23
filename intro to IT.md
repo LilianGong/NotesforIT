@@ -56,6 +56,10 @@ cat /etc/passwd *get more info about the groups*<br>
 passwd lilian *change password for user lilian*<br>
 sudo passwd -e victor *force user victor to change passwd everytime re-enter the computer, -e means 'expire'*<br>
 
+* #### add and remove users <br>
+sudo useradd andra **<br>
+sudo userdel andra *force user victor to change passwd everytime re-enter the computer, -e means 'expire'*<br>
+
 
 
 
@@ -76,10 +80,11 @@ sudo apt-get remove xxx
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3MTQ3ODMyMCwtMjAzMDE0OTE3NSwtMT
-IzNjkyMDExLDE1Mzg4OTY2MDUsMjcwMTMyMzM5LC0xNzgyMDQz
-OTQ2LC03MzEzOTA3NzUsNjI0OTQzMzQ3LDE2MDA2MjE0NTMsLT
-EyNzcwODY0MTQsLTE3MTUxNzEyNDUsLTIwODY4MjM1MDcsODg2
-NTUzNjAzLC0xMzU0Mzg5MzAzLC01ODM4NjgwNTYsMTA1NTg4Nj
-gzLC04OTc3OTg1NTUsLTEyNjk3Nzg2MDFdfQ==
+eyJoaXN0b3J5IjpbMTczOTE5NzQ3MSwxMjcxNDc4MzIwLC0yMD
+MwMTQ5MTc1LC0xMjM2OTIwMTEsMTUzODg5NjYwNSwyNzAxMzIz
+MzksLTE3ODIwNDM5NDYsLTczMTM5MDc3NSw2MjQ5NDMzNDcsMT
+YwMDYyMTQ1MywtMTI3NzA4NjQxNCwtMTcxNTE3MTI0NSwtMjA4
+NjgyMzUwNyw4ODY1NTM2MDMsLTEzNTQzODkzMDMsLTU4Mzg2OD
+A1NiwxMDU1ODg2ODMsLTg5Nzc5ODU1NSwtMTI2OTc3ODYwMV19
+
 -->

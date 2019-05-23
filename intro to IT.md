@@ -68,6 +68,7 @@ sudo chmod u+x filename  *u = user, g = group, o=everyone; + : add, - : remove; 
 sudo chmod ugo-x filename  *u = user, g = group, o=everyone; + : add, - : remove; x = execute, r = read, w = write*<br>
 sudo chmod 754 filename  <br>
 *1 = execute, 2 = write, 4 = read; each number represents seperately by the sequence of user, group and other person*<br>
+sudo chown joe filename *change the owner of the *
 
 
 
@@ -88,11 +89,11 @@ sudo apt-get remove xxx
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDUzNjMzNDcsMTg1ODMyMTM3MCwtNz
-E2OTAxMTgyLC0xNTY3Mjc4Mjk3LDY1MDQzODc2OCwzNTAxNTY0
-OTYsLTY4MjIzNDE1MywxMjcxNDc4MzIwLC0yMDMwMTQ5MTc1LC
-0xMjM2OTIwMTEsMTUzODg5NjYwNSwyNzAxMzIzMzksLTE3ODIw
-NDM5NDYsLTczMTM5MDc3NSw2MjQ5NDMzNDcsMTYwMDYyMTQ1My
-wtMTI3NzA4NjQxNCwtMTcxNTE3MTI0NSwtMjA4NjgyMzUwNyw4
-ODY1NTM2MDNdfQ==
+eyJoaXN0b3J5IjpbMTM4MzM4NjIwMiwxODU4MzIxMzcwLC03MT
+Y5MDExODIsLTE1NjcyNzgyOTcsNjUwNDM4NzY4LDM1MDE1NjQ5
+NiwtNjgyMjM0MTUzLDEyNzE0NzgzMjAsLTIwMzAxNDkxNzUsLT
+EyMzY5MjAxMSwxNTM4ODk2NjA1LDI3MDEzMjMzOSwtMTc4MjA0
+Mzk0NiwtNzMxMzkwNzc1LDYyNDk0MzM0NywxNjAwNjIxNDUzLC
+0xMjc3MDg2NDE0LC0xNzE1MTcxMjQ1LC0yMDg2ODIzNTA3LDg4
+NjU1MzYwM119
 -->

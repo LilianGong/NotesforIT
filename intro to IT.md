@@ -50,7 +50,7 @@ sudo su - *get into the root account, using 'exit' to exit*<br>
 
 * #### get groups and members <br>
 cat /etc/group *get information about the groups*<br>
-
+cat /etc/passwd *get more info about the groups*<br>
 
 
 
@@ -72,7 +72,7 @@ sudo apt-get remove xxx
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODg5ODEyNTIsLTEyMzY5MjAxMSwxNT
+eyJoaXN0b3J5IjpbLTIwMzAxNDkxNzUsLTEyMzY5MjAxMSwxNT
 M4ODk2NjA1LDI3MDEzMjMzOSwtMTc4MjA0Mzk0NiwtNzMxMzkw
 Nzc1LDYyNDk0MzM0NywxNjAwNjIxNDUzLC0xMjc3MDg2NDE0LC
 0xNzE1MTcxMjQ1LC0yMDg2ODIzNTA3LDg4NjU1MzYwMywtMTM1

@@ -60,8 +60,8 @@ sudo passwd -e victor *force user victor to change passwd everytime re-enter the
 sudo useradd andra *add*<br>
 sudo userdel andra *remove*<br>
 
-* #### add and remove users <br>
-sudo useradd andra *add*<br>
+* #### check accessibility (read write and execute) of files <br>
+ls -l filename *output instance: -rwxr-xr-x  1 lilian  staff, the first 'rwx' means the rights for the owner of the file, the next'r' m *<br>
 sudo userdel andra *remove*<br>
 
 
@@ -84,11 +84,11 @@ sudo apt-get remove xxx
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzUwMTU2NDk2LC02ODIyMzQxNTMsMTI3MT
-Q3ODMyMCwtMjAzMDE0OTE3NSwtMTIzNjkyMDExLDE1Mzg4OTY2
-MDUsMjcwMTMyMzM5LC0xNzgyMDQzOTQ2LC03MzEzOTA3NzUsNj
-I0OTQzMzQ3LDE2MDA2MjE0NTMsLTEyNzcwODY0MTQsLTE3MTUx
-NzEyNDUsLTIwODY4MjM1MDcsODg2NTUzNjAzLC0xMzU0Mzg5Mz
-AzLC01ODM4NjgwNTYsMTA1NTg4NjgzLC04OTc3OTg1NTUsLTEy
-Njk3Nzg2MDFdfQ==
+eyJoaXN0b3J5IjpbODgzNDc5MTg3LDM1MDE1NjQ5NiwtNjgyMj
+M0MTUzLDEyNzE0NzgzMjAsLTIwMzAxNDkxNzUsLTEyMzY5MjAx
+MSwxNTM4ODk2NjA1LDI3MDEzMjMzOSwtMTc4MjA0Mzk0NiwtNz
+MxMzkwNzc1LDYyNDk0MzM0NywxNjAwNjIxNDUzLC0xMjc3MDg2
+NDE0LC0xNzE1MTcxMjQ1LC0yMDg2ODIzNTA3LDg4NjU1MzYwMy
+wtMTM1NDM4OTMwMywtNTgzODY4MDU2LDEwNTU4ODY4MywtODk3
+Nzk4NTU1XX0=
 -->

@@ -51,6 +51,9 @@ sudo su - *get into the root account, using 'exit' to exit*<br>
 * #### get groups and members <br>
 cat /etc/group *get information about the groups*<br>
 cat /etc/passwd *get more info about the groups*<br>
+* #### change password <br>
+passwd lilian *change password for user lilian*<br>
+sudo passwd -e victor *force user victor to change passwd everytime reente*<br>
 
 
 
@@ -72,10 +75,10 @@ sudo apt-get remove xxx
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzAxNDkxNzUsLTEyMzY5MjAxMSwxNT
-M4ODk2NjA1LDI3MDEzMjMzOSwtMTc4MjA0Mzk0NiwtNzMxMzkw
-Nzc1LDYyNDk0MzM0NywxNjAwNjIxNDUzLC0xMjc3MDg2NDE0LC
-0xNzE1MTcxMjQ1LC0yMDg2ODIzNTA3LDg4NjU1MzYwMywtMTM1
-NDM4OTMwMywtNTgzODY4MDU2LDEwNTU4ODY4MywtODk3Nzk4NT
-U1LC0xMjY5Nzc4NjAxXX0=
+eyJoaXN0b3J5IjpbLTQzNTk0MzMxMiwtMjAzMDE0OTE3NSwtMT
+IzNjkyMDExLDE1Mzg4OTY2MDUsMjcwMTMyMzM5LC0xNzgyMDQz
+OTQ2LC03MzEzOTA3NzUsNjI0OTQzMzQ3LDE2MDA2MjE0NTMsLT
+EyNzcwODY0MTQsLTE3MTUxNzEyNDUsLTIwODY4MjM1MDcsODg2
+NTUzNjAzLC0xMzU0Mzg5MzAzLC01ODM4NjgwNTYsMTA1NTg4Nj
+gzLC04OTc3OTg1NTUsLTEyNjk3Nzg2MDFdfQ==
 -->

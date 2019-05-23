@@ -67,6 +67,7 @@ ls -ld directory *show the permission for a directory*<br>
 * #### modify permissions (read write & execute) of files <br>
 sudo chmod u+x filename  *u = user, g = group, o=everyone; + : add, - : remove; x = execute, r = read, w = write*<br>
 sudo chmod ugo-x filename  *u = user, g = group, o=everyone; + : add, - : remove; x = execute, r = read, w = write*<br>
+sudo chmod a+rwx filename *add permissions to all, a stands for all* <br>
 sudo chmod 754 filename  <br>
 *1 = execute, 2 = write, 4 = read; each number represents seperately by the sequence of user, group and other person*<br>
 sudo chown joe filename *change the owner of the file to joe *<br>
@@ -92,11 +93,11 @@ sudo apt-get remove xxx
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1NDUzNzY3MSwyMDM5MjIzODIsMTg1OD
-MyMTM3MCwtNzE2OTAxMTgyLC0xNTY3Mjc4Mjk3LDY1MDQzODc2
-OCwzNTAxNTY0OTYsLTY4MjIzNDE1MywxMjcxNDc4MzIwLC0yMD
-MwMTQ5MTc1LC0xMjM2OTIwMTEsMTUzODg5NjYwNSwyNzAxMzIz
-MzksLTE3ODIwNDM5NDYsLTczMTM5MDc3NSw2MjQ5NDMzNDcsMT
-YwMDYyMTQ1MywtMTI3NzA4NjQxNCwtMTcxNTE3MTI0NSwtMjA4
-NjgyMzUwN119
+eyJoaXN0b3J5IjpbMTM1MzAyMTU4OCwyMDU0NTM3NjcxLDIwMz
+kyMjM4MiwxODU4MzIxMzcwLC03MTY5MDExODIsLTE1NjcyNzgy
+OTcsNjUwNDM4NzY4LDM1MDE1NjQ5NiwtNjgyMjM0MTUzLDEyNz
+E0NzgzMjAsLTIwMzAxNDkxNzUsLTEyMzY5MjAxMSwxNTM4ODk2
+NjA1LDI3MDEzMjMzOSwtMTc4MjA0Mzk0NiwtNzMxMzkwNzc1LD
+YyNDk0MzM0NywxNjAwNjIxNDUzLC0xMjc3MDg2NDE0LC0xNzE1
+MTcxMjQ1XX0=
 -->

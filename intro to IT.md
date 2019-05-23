@@ -60,6 +60,10 @@ sudo passwd -e victor *force user victor to change passwd everytime re-enter the
 sudo useradd andra *add*<br>
 sudo userdel andra *remove*<br>
 
+* #### add and remove users <br>
+sudo useradd andra *add*<br>
+sudo userdel andra *remove*<br>
+
 
 
 
@@ -80,11 +84,11 @@ sudo apt-get remove xxx
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4MjIzNDE1MywxMjcxNDc4MzIwLC0yMD
-MwMTQ5MTc1LC0xMjM2OTIwMTEsMTUzODg5NjYwNSwyNzAxMzIz
-MzksLTE3ODIwNDM5NDYsLTczMTM5MDc3NSw2MjQ5NDMzNDcsMT
-YwMDYyMTQ1MywtMTI3NzA4NjQxNCwtMTcxNTE3MTI0NSwtMjA4
-NjgyMzUwNyw4ODY1NTM2MDMsLTEzNTQzODkzMDMsLTU4Mzg2OD
-A1NiwxMDU1ODg2ODMsLTg5Nzc5ODU1NSwtMTI2OTc3ODYwMV19
-
+eyJoaXN0b3J5IjpbMzUwMTU2NDk2LC02ODIyMzQxNTMsMTI3MT
+Q3ODMyMCwtMjAzMDE0OTE3NSwtMTIzNjkyMDExLDE1Mzg4OTY2
+MDUsMjcwMTMyMzM5LC0xNzgyMDQzOTQ2LC03MzEzOTA3NzUsNj
+I0OTQzMzQ3LDE2MDA2MjE0NTMsLTEyNzcwODY0MTQsLTE3MTUx
+NzEyNDUsLTIwODY4MjM1MDcsODg2NTUzNjAzLC0xMzU0Mzg5Mz
+AzLC01ODM4NjgwNTYsMTA1NTg4NjgzLC04OTc3OTg1NTUsLTEy
+Njk3Nzg2MDFdfQ==
 -->

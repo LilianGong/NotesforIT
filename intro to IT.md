@@ -61,7 +61,7 @@ sudo useradd andra *add*<br>
 sudo userdel andra *remove*<br>
 
 * #### check accessibility (read write and execute) of files <br>
-ls -l filename *output instance: -rwxr-xr-x  1 lilian  staff, the first 'rwx' means the rights for the owner of the file, the next 'r' represents the permission for the group members 'staff', and the last *<br>
+ls -l filename <br>*output instance: -rwxr-r- 1 lilian  staff, the first 'rwx' means the rights for the owner of the file, the next 'r' represents the permission for the group members 'staff', and the last 'r' represents the permission for the other users*<br>
 sudo userdel andra *remove*<br>
 
 
@@ -84,7 +84,7 @@ sudo apt-get remove xxx
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjA1NDY5LDM1MDE1NjQ5NiwtNjgyMj
+eyJoaXN0b3J5IjpbNjUwNDM4NzY4LDM1MDE1NjQ5NiwtNjgyMj
 M0MTUzLDEyNzE0NzgzMjAsLTIwMzAxNDkxNzUsLTEyMzY5MjAx
 MSwxNTM4ODk2NjA1LDI3MDEzMjMzOSwtMTc4MjA0Mzk0NiwtNz
 MxMzkwNzc1LDYyNDk0MzM0NywxNjAwNjIxNDUzLC0xMjc3MDg2

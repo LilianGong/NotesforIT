@@ -62,6 +62,7 @@ sudo userdel andra *remove*<br>
 
 * #### check permissions (read write & execute) of files <br>
 ls -l filename <br>*output instance: -rwxr-r- 1 lilian  staff, the first 'rwx' means the rights for the owner of the file, the next 'r' represents the permission for the group members 'staff', and the last 'r' represents the permission for the other users*<br>
+ls -ld directory *show the permission for a directory*<br>
 
 * #### modify permissions (read write & execute) of files <br>
 sudo chmod u+x filename  *u = user, g = group, o=everyone; + : add, - : remove; x = execute, r = read, w = write*<br>
@@ -91,11 +92,11 @@ sudo apt-get remove xxx
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzOTIyMzgyLDE4NTgzMjEzNzAsLTcxNj
-kwMTE4MiwtMTU2NzI3ODI5Nyw2NTA0Mzg3NjgsMzUwMTU2NDk2
-LC02ODIyMzQxNTMsMTI3MTQ3ODMyMCwtMjAzMDE0OTE3NSwtMT
-IzNjkyMDExLDE1Mzg4OTY2MDUsMjcwMTMyMzM5LC0xNzgyMDQz
-OTQ2LC03MzEzOTA3NzUsNjI0OTQzMzQ3LDE2MDA2MjE0NTMsLT
-EyNzcwODY0MTQsLTE3MTUxNzEyNDUsLTIwODY4MjM1MDcsODg2
-NTUzNjAzXX0=
+eyJoaXN0b3J5IjpbMjA1NDUzNzY3MSwyMDM5MjIzODIsMTg1OD
+MyMTM3MCwtNzE2OTAxMTgyLC0xNTY3Mjc4Mjk3LDY1MDQzODc2
+OCwzNTAxNTY0OTYsLTY4MjIzNDE1MywxMjcxNDc4MzIwLC0yMD
+MwMTQ5MTc1LC0xMjM2OTIwMTEsMTUzODg5NjYwNSwyNzAxMzIz
+MzksLTE3ODIwNDM5NDYsLTczMTM5MDc3NSw2MjQ5NDMzNDcsMT
+YwMDYyMTQ1MywtMTI3NzA4NjQxNCwtMTcxNTE3MTI0NSwtMjA4
+NjgyMzUwN119
 -->

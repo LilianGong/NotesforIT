@@ -1,4 +1,4 @@
-## Basic Code for Bash/Zsh--LINUX
+## Basic Command Lines for LINUX
 
 * #### list directory<br>
 ls / *show files in the root directory*<br>
@@ -84,11 +84,11 @@ sudo apt-get remove xxx
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjUwNDM4NzY4LDM1MDE1NjQ5NiwtNjgyMj
-M0MTUzLDEyNzE0NzgzMjAsLTIwMzAxNDkxNzUsLTEyMzY5MjAx
-MSwxNTM4ODk2NjA1LDI3MDEzMjMzOSwtMTc4MjA0Mzk0NiwtNz
-MxMzkwNzc1LDYyNDk0MzM0NywxNjAwNjIxNDUzLC0xMjc3MDg2
-NDE0LC0xNzE1MTcxMjQ1LC0yMDg2ODIzNTA3LDg4NjU1MzYwMy
-wtMTM1NDM4OTMwMywtNTgzODY4MDU2LDEwNTU4ODY4MywtODk3
-Nzk4NTU1XX0=
+eyJoaXN0b3J5IjpbLTE1NjcyNzgyOTcsNjUwNDM4NzY4LDM1MD
+E1NjQ5NiwtNjgyMjM0MTUzLDEyNzE0NzgzMjAsLTIwMzAxNDkx
+NzUsLTEyMzY5MjAxMSwxNTM4ODk2NjA1LDI3MDEzMjMzOSwtMT
+c4MjA0Mzk0NiwtNzMxMzkwNzc1LDYyNDk0MzM0NywxNjAwNjIx
+NDUzLC0xMjc3MDg2NDE0LC0xNzE1MTcxMjQ1LC0yMDg2ODIzNT
+A3LDg4NjU1MzYwMywtMTM1NDM4OTMwMywtNTgzODY4MDU2LDEw
+NTU4ODY4M119
 -->

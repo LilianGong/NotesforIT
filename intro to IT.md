@@ -51,9 +51,10 @@ sudo su - *get into the root account, using 'exit' to exit*<br>
 * #### get groups and members <br>
 cat /etc/group *get information about the groups*<br>
 cat /etc/passwd *get more info about the groups*<br>
+
 * #### change password <br>
 passwd lilian *change password for user lilian*<br>
-sudo passwd -e victor *force user victor to change passwd everytime reente*<br>
+sudo passwd -e victor *force user victor to change passwd everytime re-enter the computer, -e means 'expire'*<br>
 
 
 
@@ -75,7 +76,7 @@ sudo apt-get remove xxx
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNTk0MzMxMiwtMjAzMDE0OTE3NSwtMT
+eyJoaXN0b3J5IjpbMTI3MTQ3ODMyMCwtMjAzMDE0OTE3NSwtMT
 IzNjkyMDExLDE1Mzg4OTY2MDUsMjcwMTMyMzM5LC0xNzgyMDQz
 OTQ2LC03MzEzOTA3NzUsNjI0OTQzMzQ3LDE2MDA2MjE0NTMsLT
 EyNzcwODY0MTQsLTE3MTUxNzEyNDUsLTIwODY4MjM1MDcsODg2

@@ -48,8 +48,8 @@ ls ~/non_exist.txt 2> /dev/null *output the standard error* <br>
 * #### get into root account <br>
 sudo su - *get into the root account, using 'exit' to exit*<br>
 
-* #### get  <br>
-sudo su - *get into the root account, using 'exit' to exit*<br>
+* #### get groups and members <br>
+cat /etc/group *get information about the groups*<br>
 
 
 
@@ -72,10 +72,10 @@ sudo apt-get remove xxx
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1MDE2MTk0NCwtMTIzNjkyMDExLDE1Mz
-g4OTY2MDUsMjcwMTMyMzM5LC0xNzgyMDQzOTQ2LC03MzEzOTA3
-NzUsNjI0OTQzMzQ3LDE2MDA2MjE0NTMsLTEyNzcwODY0MTQsLT
-E3MTUxNzEyNDUsLTIwODY4MjM1MDcsODg2NTUzNjAzLC0xMzU0
-Mzg5MzAzLC01ODM4NjgwNTYsMTA1NTg4NjgzLC04OTc3OTg1NT
-UsLTEyNjk3Nzg2MDFdfQ==
+eyJoaXN0b3J5IjpbLTEzODg5ODEyNTIsLTEyMzY5MjAxMSwxNT
+M4ODk2NjA1LDI3MDEzMjMzOSwtMTc4MjA0Mzk0NiwtNzMxMzkw
+Nzc1LDYyNDk0MzM0NywxNjAwNjIxNDUzLC0xMjc3MDg2NDE0LC
+0xNzE1MTcxMjQ1LC0yMDg2ODIzNTA3LDg4NjU1MzYwMywtMTM1
+NDM4OTMwMywtNTgzODY4MDU2LDEwNTU4ODY4MywtODk3Nzk4NT
+U1LC0xMjY5Nzc4NjAxXX0=
 -->

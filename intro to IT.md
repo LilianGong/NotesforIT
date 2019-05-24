@@ -79,7 +79,8 @@ sudo chgrp best-group filename *change the group of the file to best-group* <br>
 
 
 * #### check if xxx software is installed<br>
-dpkg -s xxx
+dpkg -s xxx<br>
+dpkg -i xxx.deb *install xxx.* <br>
 * ####  update xxx software<br>
 dpkg -s xxx sudo apt-get install -f<br>
 
@@ -93,11 +94,11 @@ sudo apt-get remove xxx
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1MzAyMTU4OCwyMDU0NTM3NjcxLDIwMz
-kyMjM4MiwxODU4MzIxMzcwLC03MTY5MDExODIsLTE1NjcyNzgy
-OTcsNjUwNDM4NzY4LDM1MDE1NjQ5NiwtNjgyMjM0MTUzLDEyNz
-E0NzgzMjAsLTIwMzAxNDkxNzUsLTEyMzY5MjAxMSwxNTM4ODk2
-NjA1LDI3MDEzMjMzOSwtMTc4MjA0Mzk0NiwtNzMxMzkwNzc1LD
-YyNDk0MzM0NywxNjAwNjIxNDUzLC0xMjc3MDg2NDE0LC0xNzE1
-MTcxMjQ1XX0=
+eyJoaXN0b3J5IjpbLTI4OTc3NTc1OCwxMzUzMDIxNTg4LDIwNT
+Q1Mzc2NzEsMjAzOTIyMzgyLDE4NTgzMjEzNzAsLTcxNjkwMTE4
+MiwtMTU2NzI3ODI5Nyw2NTA0Mzg3NjgsMzUwMTU2NDk2LC02OD
+IyMzQxNTMsMTI3MTQ3ODMyMCwtMjAzMDE0OTE3NSwtMTIzNjky
+MDExLDE1Mzg4OTY2MDUsMjcwMTMyMzM5LC0xNzgyMDQzOTQ2LC
+03MzEzOTA3NzUsNjI0OTQzMzQ3LDE2MDA2MjE0NTMsLTEyNzcw
+ODY0MTRdfQ==
 -->

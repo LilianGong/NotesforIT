@@ -85,8 +85,8 @@ brew uninstall <br>
 brew list<br>
 brew -v  *check version*<br>
 
-* #### Arch in LINUX<br>
-dpkg -s xxx*'s' flag refers to search if xxx.deb is installed*<br>
+* #### Archive in LINUX<br>
+tar -cf tarname.tar file1 * make tarfile with file1*<br>
 dpkg -i xxx.deb *'i' flag refers to install xxx.deb* <br>
 dpkg -r xxx.deb *'r' flag refers to uninstall xxx.deb* <br>
 dpkg -l  *'l' flag refers to list all installed packages* <br>
@@ -107,7 +107,7 @@ sudo apt-get remove xxx
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzc0NTE3NDUsLTEwNTYzNjE4NTQsMT
+eyJoaXN0b3J5IjpbLTExMjg4ODUwMjEsLTEwNTYzNjE4NTQsMT
 M1MzAyMTU4OCwyMDU0NTM3NjcxLDIwMzkyMjM4MiwxODU4MzIx
 MzcwLC03MTY5MDExODIsLTE1NjcyNzgyOTcsNjUwNDM4NzY4LD
 M1MDE1NjQ5NiwtNjgyMjM0MTUzLDEyNzE0NzgzMjAsLTIwMzAx

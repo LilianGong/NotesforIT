@@ -79,6 +79,8 @@ dpkg -i xxx.deb *'i' flag refers to install xxx.deb* <br>
 dpkg -r xxx.deb *'r' flag refers to uninstall xxx.deb* <br>
 dpkg -l  *'l' flag refers to list all installed packages* <br>
 
+for
+
 * ####  update xxx software<br>
 dpkg -s xxx sudo apt-get install -f<br>
 
@@ -92,11 +94,11 @@ sudo apt-get remove xxx
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTYzNjE4NTQsMTM1MzAyMTU4OCwyMD
-U0NTM3NjcxLDIwMzkyMjM4MiwxODU4MzIxMzcwLC03MTY5MDEx
-ODIsLTE1NjcyNzgyOTcsNjUwNDM4NzY4LDM1MDE1NjQ5NiwtNj
-gyMjM0MTUzLDEyNzE0NzgzMjAsLTIwMzAxNDkxNzUsLTEyMzY5
-MjAxMSwxNTM4ODk2NjA1LDI3MDEzMjMzOSwtMTc4MjA0Mzk0Ni
-wtNzMxMzkwNzc1LDYyNDk0MzM0NywxNjAwNjIxNDUzLC0xMjc3
-MDg2NDE0XX0=
+eyJoaXN0b3J5IjpbMTExNDYzNzQ0NSwtMTA1NjM2MTg1NCwxMz
+UzMDIxNTg4LDIwNTQ1Mzc2NzEsMjAzOTIyMzgyLDE4NTgzMjEz
+NzAsLTcxNjkwMTE4MiwtMTU2NzI3ODI5Nyw2NTA0Mzg3NjgsMz
+UwMTU2NDk2LC02ODIyMzQxNTMsMTI3MTQ3ODMyMCwtMjAzMDE0
+OTE3NSwtMTIzNjkyMDExLDE1Mzg4OTY2MDUsMjcwMTMyMzM5LC
+0xNzgyMDQzOTQ2LC03MzEzOTA3NzUsNjI0OTQzMzQ3LDE2MDA2
+MjE0NTNdfQ==
 -->

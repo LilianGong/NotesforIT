@@ -83,9 +83,19 @@ dpkg -l  *'l' flag refers to list all installed packages* <br>
 brew install <br>
 brew uninstall <br>
 brew list<br>
-brew -v <br> *check version*
+brew -v  *check version*<br>
+
+* #### Arch in LINUX<br>
+dpkg -s xxx*'s' flag refers to search if xxx.deb is installed*<br>
+dpkg -i xxx.deb *'i' flag refers to install xxx.deb* <br>
+dpkg -r xxx.deb *'r' flag refers to uninstall xxx.deb* <br>
+dpkg -l  *'l' flag refers to list all installed packages* <br>
+
+
+
 * ####  update xxx software<br>
 dpkg -s xxx sudo apt-get install -f<br>
+
 
 * #### download software that is commonly used<br>
 sudo apt-get update # make sure linux updated to the newest directory
@@ -97,11 +107,11 @@ sudo apt-get remove xxx
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5ODE0NDI2MSwtMTA1NjM2MTg1NCwxMz
-UzMDIxNTg4LDIwNTQ1Mzc2NzEsMjAzOTIyMzgyLDE4NTgzMjEz
-NzAsLTcxNjkwMTE4MiwtMTU2NzI3ODI5Nyw2NTA0Mzg3NjgsMz
-UwMTU2NDk2LC02ODIyMzQxNTMsMTI3MTQ3ODMyMCwtMjAzMDE0
-OTE3NSwtMTIzNjkyMDExLDE1Mzg4OTY2MDUsMjcwMTMyMzM5LC
-0xNzgyMDQzOTQ2LC03MzEzOTA3NzUsNjI0OTQzMzQ3LDE2MDA2
-MjE0NTNdfQ==
+eyJoaXN0b3J5IjpbLTIwMzc0NTE3NDUsLTEwNTYzNjE4NTQsMT
+M1MzAyMTU4OCwyMDU0NTM3NjcxLDIwMzkyMjM4MiwxODU4MzIx
+MzcwLC03MTY5MDExODIsLTE1NjcyNzgyOTcsNjUwNDM4NzY4LD
+M1MDE1NjQ5NiwtNjgyMjM0MTUzLDEyNzE0NzgzMjAsLTIwMzAx
+NDkxNzUsLTEyMzY5MjAxMSwxNTM4ODk2NjA1LDI3MDEzMjMzOS
+wtMTc4MjA0Mzk0NiwtNzMxMzkwNzc1LDYyNDk0MzM0NywxNjAw
+NjIxNDUzXX0=
 -->

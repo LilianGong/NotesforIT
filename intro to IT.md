@@ -79,8 +79,10 @@ sudo chgrp best-group filename *change the group of the file to best-group* <br>
 
 
 * #### check if xxx software is installed<br>
-dpkg -s xxx<br>
-dpkg -i xxx.deb *install xxx.* <br>
+dpkg -s xxx*'s' flag refers to search if xxx.deb is installed*<br>
+dpkg -i xxx.deb *'i' flag refers to install xxx.deb* <br>
+dpkg -r xxx.deb *'r' flag refers to uninstall xxx.deb* <br>
+
 * ####  update xxx software<br>
 dpkg -s xxx sudo apt-get install -f<br>
 
@@ -94,7 +96,7 @@ sudo apt-get remove xxx
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4OTc3NTc1OCwxMzUzMDIxNTg4LDIwNT
+eyJoaXN0b3J5IjpbMTgxNDI2MjgzMiwxMzUzMDIxNTg4LDIwNT
 Q1Mzc2NzEsMjAzOTIyMzgyLDE4NTgzMjEzNzAsLTcxNjkwMTE4
 MiwtMTU2NzI3ODI5Nyw2NTA0Mzg3NjgsMzUwMTU2NDk2LC02OD
 IyMzQxNTMsMTI3MTQ3ODMyMCwtMjAzMDE0OTE3NSwtMTIzNjky

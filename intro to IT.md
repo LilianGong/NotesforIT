@@ -79,8 +79,11 @@ dpkg -i xxx.deb *'i' flag refers to install xxx.deb* <br>
 dpkg -r xxx.deb *'r' flag refers to uninstall xxx.deb* <br>
 dpkg -l  *'l' flag refers to list all installed packages* <br>
 
-for
-
+##### for mac OS:<br>
+brew install xxx <br>
+brew uninstall <br>
+brew list<br>
+brew -v <br> *check version*
 * ####  update xxx software<br>
 dpkg -s xxx sudo apt-get install -f<br>
 
@@ -94,11 +97,11 @@ sudo apt-get remove xxx
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNDYzNzQ0NSwtMTA1NjM2MTg1NCwxMz
-UzMDIxNTg4LDIwNTQ1Mzc2NzEsMjAzOTIyMzgyLDE4NTgzMjEz
-NzAsLTcxNjkwMTE4MiwtMTU2NzI3ODI5Nyw2NTA0Mzg3NjgsMz
-UwMTU2NDk2LC02ODIyMzQxNTMsMTI3MTQ3ODMyMCwtMjAzMDE0
-OTE3NSwtMTIzNjkyMDExLDE1Mzg4OTY2MDUsMjcwMTMyMzM5LC
-0xNzgyMDQzOTQ2LC03MzEzOTA3NzUsNjI0OTQzMzQ3LDE2MDA2
-MjE0NTNdfQ==
+eyJoaXN0b3J5IjpbNTkwOTg2NjksLTEwNTYzNjE4NTQsMTM1Mz
+AyMTU4OCwyMDU0NTM3NjcxLDIwMzkyMjM4MiwxODU4MzIxMzcw
+LC03MTY5MDExODIsLTE1NjcyNzgyOTcsNjUwNDM4NzY4LDM1MD
+E1NjQ5NiwtNjgyMjM0MTUzLDEyNzE0NzgzMjAsLTIwMzAxNDkx
+NzUsLTEyMzY5MjAxMSwxNTM4ODk2NjA1LDI3MDEzMjMzOSwtMT
+c4MjA0Mzk0NiwtNzMxMzkwNzc1LDYyNDk0MzM0NywxNjAwNjIx
+NDUzXX0=
 -->

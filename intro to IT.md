@@ -73,16 +73,11 @@ sudo chmod 754 filename  <br>
 sudo chown joe filename *change the owner of the file to joe *<br>
 sudo chgrp best-group filename *change the group of the file to best-group* <br>
 
-
-
-
-
-
-* #### check if xxx software is installed<br>
+* #### installation of softwares<br>
 dpkg -s xxx*'s' flag refers to search if xxx.deb is installed*<br>
 dpkg -i xxx.deb *'i' flag refers to install xxx.deb* <br>
 dpkg -r xxx.deb *'r' flag refers to uninstall xxx.deb* <br>
-dpkg -l xxx.deb *'l' flag refers to list all installed paclages* <br>
+dpkg -l  *'l' flag refers to list all installed packages* <br>
 
 * ####  update xxx software<br>
 dpkg -s xxx sudo apt-get install -f<br>
@@ -97,11 +92,11 @@ sudo apt-get remove xxx
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1NzMzOTI1OSwxMzUzMDIxNTg4LDIwNT
-Q1Mzc2NzEsMjAzOTIyMzgyLDE4NTgzMjEzNzAsLTcxNjkwMTE4
-MiwtMTU2NzI3ODI5Nyw2NTA0Mzg3NjgsMzUwMTU2NDk2LC02OD
-IyMzQxNTMsMTI3MTQ3ODMyMCwtMjAzMDE0OTE3NSwtMTIzNjky
-MDExLDE1Mzg4OTY2MDUsMjcwMTMyMzM5LC0xNzgyMDQzOTQ2LC
-03MzEzOTA3NzUsNjI0OTQzMzQ3LDE2MDA2MjE0NTMsLTEyNzcw
-ODY0MTRdfQ==
+eyJoaXN0b3J5IjpbLTEwNTYzNjE4NTQsMTM1MzAyMTU4OCwyMD
+U0NTM3NjcxLDIwMzkyMjM4MiwxODU4MzIxMzcwLC03MTY5MDEx
+ODIsLTE1NjcyNzgyOTcsNjUwNDM4NzY4LDM1MDE1NjQ5NiwtNj
+gyMjM0MTUzLDEyNzE0NzgzMjAsLTIwMzAxNDkxNzUsLTEyMzY5
+MjAxMSwxNTM4ODk2NjA1LDI3MDEzMjMzOSwtMTc4MjA0Mzk0Ni
+wtNzMxMzkwNzc1LDYyNDk0MzM0NywxNjAwNjIxNDUzLC0xMjc3
+MDg2NDE0XX0=
 -->

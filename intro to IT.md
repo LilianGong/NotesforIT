@@ -100,17 +100,20 @@ sudo apt-get remove xxx
 
 * ####  OS system update<br>
 uname -r *check for the OS kernel version* <br> 
+apt  full-upgrade *upgrade the OS system, but do remember to 'apt update' first to update the application sources* <br> 
+
+
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ1NTAwNDk2LC0xMTUxNjgwMzYyLC02OD
-cxODk1NCwtMTEyODg4NTAyMSwtMTA1NjM2MTg1NCwxMzUzMDIx
-NTg4LDIwNTQ1Mzc2NzEsMjAzOTIyMzgyLDE4NTgzMjEzNzAsLT
-cxNjkwMTE4MiwtMTU2NzI3ODI5Nyw2NTA0Mzg3NjgsMzUwMTU2
-NDk2LC02ODIyMzQxNTMsMTI3MTQ3ODMyMCwtMjAzMDE0OTE3NS
-wtMTIzNjkyMDExLDE1Mzg4OTY2MDUsMjcwMTMyMzM5LC0xNzgy
-MDQzOTQ2XX0=
+eyJoaXN0b3J5IjpbMTg3OTQ4OTYzMCwtMTE1MTY4MDM2MiwtNj
+g3MTg5NTQsLTExMjg4ODUwMjEsLTEwNTYzNjE4NTQsMTM1MzAy
+MTU4OCwyMDU0NTM3NjcxLDIwMzkyMjM4MiwxODU4MzIxMzcwLC
+03MTY5MDExODIsLTE1NjcyNzgyOTcsNjUwNDM4NzY4LDM1MDE1
+NjQ5NiwtNjgyMjM0MTUzLDEyNzE0NzgzMjAsLTIwMzAxNDkxNz
+UsLTEyMzY5MjAxMSwxNTM4ODk2NjA1LDI3MDEzMjMzOSwtMTc4
+MjA0Mzk0Nl19
 -->

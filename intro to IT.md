@@ -94,9 +94,11 @@ dpkg -s xxx sudo apt-get install -f<br>
 
 * #### download software that is commonly used<br>
 sudo apt-get update # make sure linux updated to the newest directory
-sudo apt-get install firefox (etc.)
+sudo apt-get install firefox (etc.) <br>
+sudo apt install -f *fix the missing dependencies*<br>
 * #### delete software<br>
-sudo apt-get remove xxx
+sudo apt-get remove xxx<br>
+
 
 * ####  OS system update<br>
 uname -r *check for the OS kernel version* <br> 
@@ -109,11 +111,11 @@ apt  full-upgrade *upgrade the OS system, but do remember to 'apt update' first 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU5MzI5NjkyLDE4Nzk0ODk2MzAsLTExNT
-E2ODAzNjIsLTY4NzE4OTU0LC0xMTI4ODg1MDIxLC0xMDU2MzYx
-ODU0LDEzNTMwMjE1ODgsMjA1NDUzNzY3MSwyMDM5MjIzODIsMT
-g1ODMyMTM3MCwtNzE2OTAxMTgyLC0xNTY3Mjc4Mjk3LDY1MDQz
-ODc2OCwzNTAxNTY0OTYsLTY4MjIzNDE1MywxMjcxNDc4MzIwLC
-0yMDMwMTQ5MTc1LC0xMjM2OTIwMTEsMTUzODg5NjYwNSwyNzAx
-MzIzMzldfQ==
+eyJoaXN0b3J5IjpbLTEwMTk0Njk4MzMsNTU5MzI5NjkyLDE4Nz
+k0ODk2MzAsLTExNTE2ODAzNjIsLTY4NzE4OTU0LC0xMTI4ODg1
+MDIxLC0xMDU2MzYxODU0LDEzNTMwMjE1ODgsMjA1NDUzNzY3MS
+wyMDM5MjIzODIsMTg1ODMyMTM3MCwtNzE2OTAxMTgyLC0xNTY3
+Mjc4Mjk3LDY1MDQzODc2OCwzNTAxNTY0OTYsLTY4MjIzNDE1My
+wxMjcxNDc4MzIwLC0yMDMwMTQ5MTc1LC0xMjM2OTIwMTEsMTUz
+ODg5NjYwNV19
 -->

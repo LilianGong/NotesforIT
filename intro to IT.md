@@ -86,7 +86,7 @@ brew list<br>
 brew -v  *check version*<br>
 
 * #### Archive in LINUX<br>
-tar -cf tarname.tar file1  file2 file3 * make tarfile with file1*<br>
+tar -cf tarname.tar file1  file2 file3 bb* make tarfile with file1*<br>
 
 
 
@@ -104,11 +104,11 @@ sudo apt-get remove xxx
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4NzE4OTU0LC0xMTI4ODg1MDIxLC0xMD
-U2MzYxODU0LDEzNTMwMjE1ODgsMjA1NDUzNzY3MSwyMDM5MjIz
-ODIsMTg1ODMyMTM3MCwtNzE2OTAxMTgyLC0xNTY3Mjc4Mjk3LD
-Y1MDQzODc2OCwzNTAxNTY0OTYsLTY4MjIzNDE1MywxMjcxNDc4
-MzIwLC0yMDMwMTQ5MTc1LC0xMjM2OTIwMTEsMTUzODg5NjYwNS
-wyNzAxMzIzMzksLTE3ODIwNDM5NDYsLTczMTM5MDc3NSw2MjQ5
-NDMzNDddfQ==
+eyJoaXN0b3J5IjpbLTExNTE2ODAzNjIsLTY4NzE4OTU0LC0xMT
+I4ODg1MDIxLC0xMDU2MzYxODU0LDEzNTMwMjE1ODgsMjA1NDUz
+NzY3MSwyMDM5MjIzODIsMTg1ODMyMTM3MCwtNzE2OTAxMTgyLC
+0xNTY3Mjc4Mjk3LDY1MDQzODc2OCwzNTAxNTY0OTYsLTY4MjIz
+NDE1MywxMjcxNDc4MzIwLC0yMDMwMTQ5MTc1LC0xMjM2OTIwMT
+EsMTUzODg5NjYwNSwyNzAxMzIzMzksLTE3ODIwNDM5NDYsLTcz
+MTM5MDc3NV19
 -->

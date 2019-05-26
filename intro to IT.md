@@ -86,7 +86,9 @@ brew list<br>
 brew -v  *check version*<br>
 
 * #### Archive in LINUX<br>
-tar -cf tarname.tar file1  file2 file3 bb* make tarfile with file1*<br>
+tar -cf tarname.tar file1  file2 file3 *make tarfile with file1*<br>
+tar -xvf tarname.tar *extract tarname.tar*<br>
+
 
 * ####  update xxx software<br>
 dpkg -s xxx sudo apt-get install -f<br>
@@ -111,11 +113,11 @@ apt  full-upgrade *upgrade the OS system, but do remember to 'apt update' first 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTk0Njk4MzMsNTU5MzI5NjkyLDE4Nz
-k0ODk2MzAsLTExNTE2ODAzNjIsLTY4NzE4OTU0LC0xMTI4ODg1
-MDIxLC0xMDU2MzYxODU0LDEzNTMwMjE1ODgsMjA1NDUzNzY3MS
-wyMDM5MjIzODIsMTg1ODMyMTM3MCwtNzE2OTAxMTgyLC0xNTY3
-Mjc4Mjk3LDY1MDQzODc2OCwzNTAxNTY0OTYsLTY4MjIzNDE1My
-wxMjcxNDc4MzIwLC0yMDMwMTQ5MTc1LC0xMjM2OTIwMTEsMTUz
-ODg5NjYwNV19
+eyJoaXN0b3J5IjpbNDc2NTkxMjE4LC0xMDE5NDY5ODMzLDU1OT
+MyOTY5MiwxODc5NDg5NjMwLC0xMTUxNjgwMzYyLC02ODcxODk1
+NCwtMTEyODg4NTAyMSwtMTA1NjM2MTg1NCwxMzUzMDIxNTg4LD
+IwNTQ1Mzc2NzEsMjAzOTIyMzgyLDE4NTgzMjEzNzAsLTcxNjkw
+MTE4MiwtMTU2NzI3ODI5Nyw2NTA0Mzg3NjgsMzUwMTU2NDk2LC
+02ODIyMzQxNTMsMTI3MTQ3ODMyMCwtMjAzMDE0OTE3NSwtMTIz
+NjkyMDExXX0=
 -->

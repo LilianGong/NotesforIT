@@ -1,4 +1,4 @@
-## Basic Command Lines for LINUX
+>## Basic Command Lines for LINUX
 
 * #### list directory<br>
 ls / *show files in the root directory*<br>
@@ -109,11 +109,11 @@ apt  full-upgrade *upgrade the OS system, but do remember to 'apt update' first 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3OTQ4OTYzMCwtMTE1MTY4MDM2MiwtNj
-g3MTg5NTQsLTExMjg4ODUwMjEsLTEwNTYzNjE4NTQsMTM1MzAy
-MTU4OCwyMDU0NTM3NjcxLDIwMzkyMjM4MiwxODU4MzIxMzcwLC
-03MTY5MDExODIsLTE1NjcyNzgyOTcsNjUwNDM4NzY4LDM1MDE1
-NjQ5NiwtNjgyMjM0MTUzLDEyNzE0NzgzMjAsLTIwMzAxNDkxNz
-UsLTEyMzY5MjAxMSwxNTM4ODk2NjA1LDI3MDEzMjMzOSwtMTc4
-MjA0Mzk0Nl19
+eyJoaXN0b3J5IjpbNTU5MzI5NjkyLDE4Nzk0ODk2MzAsLTExNT
+E2ODAzNjIsLTY4NzE4OTU0LC0xMTI4ODg1MDIxLC0xMDU2MzYx
+ODU0LDEzNTMwMjE1ODgsMjA1NDUzNzY3MSwyMDM5MjIzODIsMT
+g1ODMyMTM3MCwtNzE2OTAxMTgyLC0xNTY3Mjc4Mjk3LDY1MDQz
+ODc2OCwzNTAxNTY0OTYsLTY4MjIzNDE1MywxMjcxNDc4MzIwLC
+0yMDMwMTQ5MTc1LC0xMjM2OTIwMTEsMTUzODg5NjYwNSwyNzAx
+MzIzMzldfQ==
 -->

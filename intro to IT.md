@@ -88,8 +88,6 @@ brew -v  *check version*<br>
 * #### Archive in LINUX<br>
 tar -cf tarname.tar file1  file2 file3 bb* make tarfile with file1*<br>
 
-
-
 * ####  update xxx software<br>
 dpkg -s xxx sudo apt-get install -f<br>
 
@@ -100,15 +98,19 @@ sudo apt-get install firefox (etc.)
 * #### delete software<br>
 sudo apt-get remove xxx
 
+* ####  OS system update<br>
+uname -r *check for the OS kernel version* <br> 
+
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTE2ODAzNjIsLTY4NzE4OTU0LC0xMT
-I4ODg1MDIxLC0xMDU2MzYxODU0LDEzNTMwMjE1ODgsMjA1NDUz
-NzY3MSwyMDM5MjIzODIsMTg1ODMyMTM3MCwtNzE2OTAxMTgyLC
-0xNTY3Mjc4Mjk3LDY1MDQzODc2OCwzNTAxNTY0OTYsLTY4MjIz
-NDE1MywxMjcxNDc4MzIwLC0yMDMwMTQ5MTc1LC0xMjM2OTIwMT
-EsMTUzODg5NjYwNSwyNzAxMzIzMzksLTE3ODIwNDM5NDYsLTcz
-MTM5MDc3NV19
+eyJoaXN0b3J5IjpbNDQ1NTAwNDk2LC0xMTUxNjgwMzYyLC02OD
+cxODk1NCwtMTEyODg4NTAyMSwtMTA1NjM2MTg1NCwxMzUzMDIx
+NTg4LDIwNTQ1Mzc2NzEsMjAzOTIyMzgyLDE4NTgzMjEzNzAsLT
+cxNjkwMTE4MiwtMTU2NzI3ODI5Nyw2NTA0Mzg3NjgsMzUwMTU2
+NDk2LC02ODIyMzQxNTMsMTI3MTQ3ODMyMCwtMjAzMDE0OTE3NS
+wtMTIzNjkyMDExLDE1Mzg4OTY2MDUsMjcwMTMyMzM5LC0xNzgy
+MDQzOTQ2XX0=
 -->

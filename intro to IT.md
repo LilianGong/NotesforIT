@@ -115,7 +115,7 @@ Mklabel gpt *mark the disk with gpt table* <br>
 
 mkpart primary ext4 1MiB 5 GiB *make a partition named as primary with ext4 file system, starting at 1 MiB and ending at 5 GiB* <br>
 
-mkfs  -t ext4 /*format the partition with the file system using mkfs*
+quit --> mkfs  -t ext4 /dev/sdb1 *format the partition with the file system using mkfs*
 
 
 
@@ -124,7 +124,7 @@ mkfs  -t ext4 /*format the partition with the file system using mkfs*
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1MjgzNDAxMywtODY5Mzc0MzgxLDEzOD
+eyJoaXN0b3J5IjpbMTkxNzM3MzAzNCwtODY5Mzc0MzgxLDEzOD
 IyOTI5ODQsNDc2NTkxMjE4LC0xMDE5NDY5ODMzLDU1OTMyOTY5
 MiwxODc5NDg5NjMwLC0xMTUxNjgwMzYyLC02ODcxODk1NCwtMT
 EyODg4NTAyMSwtMTA1NjM2MTg1NCwxMzUzMDIxNTg4LDIwNTQ1

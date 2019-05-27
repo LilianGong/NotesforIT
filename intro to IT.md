@@ -106,6 +106,9 @@ sudo apt-get remove xxx<br>
 uname -r *check for the OS kernel version* <br> 
 apt  full-upgrade *upgrade the OS system, but do remember to 'apt update' first to update the application sources* <br> 
 
+* ####  Partition Management<br>
+parted -l *show all the partitions that connected to the computer* <br>
+
 
 
 
@@ -113,11 +116,11 @@ apt  full-upgrade *upgrade the OS system, but do remember to 'apt update' first 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4MjI5Mjk4NCw0NzY1OTEyMTgsLTEwMT
-k0Njk4MzMsNTU5MzI5NjkyLDE4Nzk0ODk2MzAsLTExNTE2ODAz
-NjIsLTY4NzE4OTU0LC0xMTI4ODg1MDIxLC0xMDU2MzYxODU0LD
-EzNTMwMjE1ODgsMjA1NDUzNzY3MSwyMDM5MjIzODIsMTg1ODMy
-MTM3MCwtNzE2OTAxMTgyLC0xNTY3Mjc4Mjk3LDY1MDQzODc2OC
-wzNTAxNTY0OTYsLTY4MjIzNDE1MywxMjcxNDc4MzIwLC0yMDMw
-MTQ5MTc1XX0=
+eyJoaXN0b3J5IjpbLTg2OTM3NDM4MSwxMzgyMjkyOTg0LDQ3Nj
+U5MTIxOCwtMTAxOTQ2OTgzMyw1NTkzMjk2OTIsMTg3OTQ4OTYz
+MCwtMTE1MTY4MDM2MiwtNjg3MTg5NTQsLTExMjg4ODUwMjEsLT
+EwNTYzNjE4NTQsMTM1MzAyMTU4OCwyMDU0NTM3NjcxLDIwMzky
+MjM4MiwxODU4MzIxMzcwLC03MTY5MDExODIsLTE1NjcyNzgyOT
+csNjUwNDM4NzY4LDM1MDE1NjQ5NiwtNjgyMjM0MTUzLDEyNzE0
+NzgzMjBdfQ==
 -->

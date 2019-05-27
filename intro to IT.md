@@ -113,6 +113,7 @@ sudo parted /dev/sdb --> print *enter the parted command line and show the infom
 
 Mklabel gpt *mark the disk with gpt table* <br>
 
+mkpart primary ext4 1Mib *mark the disk with gpt table* <br>
 
 
 
@@ -123,7 +124,7 @@ Mklabel gpt *mark the disk with gpt table* <br>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyNTU3MzEzOCwtODY5Mzc0MzgxLDEzOD
+eyJoaXN0b3J5IjpbMTI3MjkxNjIxMywtODY5Mzc0MzgxLDEzOD
 IyOTI5ODQsNDc2NTkxMjE4LC0xMDE5NDY5ODMzLDU1OTMyOTY5
 MiwxODc5NDg5NjMwLC0xMTUxNjgwMzYyLC02ODcxODk1NCwtMT
 EyODg4NTAyMSwtMTA1NjM2MTg1NCwxMzUzMDIxNTg4LDIwNTQ1

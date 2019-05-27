@@ -118,6 +118,7 @@ mkpart primary ext4 1MiB 5 GiB *make a partition named as primary with ext4 file
 quit --> mkfs  -t ext4 /dev/sdb1 *format the partition with the file system using mkfs*<br>
 
 sudo mount /dev/sdb1/my-usb *mount the partition*<br>
+du -h *show disks usage* <br> 
 
 
 
@@ -127,11 +128,11 @@ sudo mount /dev/sdb1/my-usb *mount the partition*<br>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTM4NjI5NzksLTg2OTM3NDM4MSwxMz
-gyMjkyOTg0LDQ3NjU5MTIxOCwtMTAxOTQ2OTgzMyw1NTkzMjk2
-OTIsMTg3OTQ4OTYzMCwtMTE1MTY4MDM2MiwtNjg3MTg5NTQsLT
-ExMjg4ODUwMjEsLTEwNTYzNjE4NTQsMTM1MzAyMTU4OCwyMDU0
-NTM3NjcxLDIwMzkyMjM4MiwxODU4MzIxMzcwLC03MTY5MDExOD
-IsLTE1NjcyNzgyOTcsNjUwNDM4NzY4LDM1MDE1NjQ5NiwtNjgy
-MjM0MTUzXX0=
+eyJoaXN0b3J5IjpbLTE0NjExODU0NDUsLTExMTM4NjI5NzksLT
+g2OTM3NDM4MSwxMzgyMjkyOTg0LDQ3NjU5MTIxOCwtMTAxOTQ2
+OTgzMyw1NTkzMjk2OTIsMTg3OTQ4OTYzMCwtMTE1MTY4MDM2Mi
+wtNjg3MTg5NTQsLTExMjg4ODUwMjEsLTEwNTYzNjE4NTQsMTM1
+MzAyMTU4OCwyMDU0NTM3NjcxLDIwMzkyMjM4MiwxODU4MzIxMz
+cwLC03MTY5MDExODIsLTE1NjcyNzgyOTcsNjUwNDM4NzY4LDM1
+MDE1NjQ5Nl19
 -->

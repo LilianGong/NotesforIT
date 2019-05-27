@@ -109,6 +109,12 @@ apt  full-upgrade *upgrade the OS system, but do remember to 'apt update' first 
 * ####  Partition Management<br>
 parted -l *show all the partitions that connected to the computer* <br>
 
+sudo parted /dev/sdb --> print *enter the parted command line and show the infomation of the disk* <br>
+
+
+
+
+
 
 
 
@@ -116,11 +122,11 @@ parted -l *show all the partitions that connected to the computer* <br>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2OTM3NDM4MSwxMzgyMjkyOTg0LDQ3Nj
-U5MTIxOCwtMTAxOTQ2OTgzMyw1NTkzMjk2OTIsMTg3OTQ4OTYz
-MCwtMTE1MTY4MDM2MiwtNjg3MTg5NTQsLTExMjg4ODUwMjEsLT
-EwNTYzNjE4NTQsMTM1MzAyMTU4OCwyMDU0NTM3NjcxLDIwMzky
-MjM4MiwxODU4MzIxMzcwLC03MTY5MDExODIsLTE1NjcyNzgyOT
-csNjUwNDM4NzY4LDM1MDE1NjQ5NiwtNjgyMjM0MTUzLDEyNzE0
-NzgzMjBdfQ==
+eyJoaXN0b3J5IjpbMTkwNzUyOTM0MSwtODY5Mzc0MzgxLDEzOD
+IyOTI5ODQsNDc2NTkxMjE4LC0xMDE5NDY5ODMzLDU1OTMyOTY5
+MiwxODc5NDg5NjMwLC0xMTUxNjgwMzYyLC02ODcxODk1NCwtMT
+EyODg4NTAyMSwtMTA1NjM2MTg1NCwxMzUzMDIxNTg4LDIwNTQ1
+Mzc2NzEsMjAzOTIyMzgyLDE4NTgzMjEzNzAsLTcxNjkwMTE4Mi
+wtMTU2NzI3ODI5Nyw2NTA0Mzg3NjgsMzUwMTU2NDk2LC02ODIy
+MzQxNTNdfQ==
 -->

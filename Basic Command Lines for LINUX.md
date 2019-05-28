@@ -107,7 +107,7 @@ uname -r *check for the OS kernel version* <br>
 apt  full-upgrade *upgrade the OS system, but do remember to 'apt update' first to update the application sources* <br> 
 
 * ####  Partition Management<br>
-lsblk<br>
+lsblk *list all partitions*<br>
 parted -l *show all the partitions that connected to the computer* <br>
 
 sudo parted /dev/sdb --> print *enter the parted command line and show the infomation of the disk* <br>
@@ -129,5 +129,5 @@ du -h *show disks usage* <br>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2MTQ5MjU0OSwtMTQ2MTE4NTQ0NV19
+eyJoaXN0b3J5IjpbMTU2ODUxNjQzLC0xNDYxMTg1NDQ1XX0=
 -->

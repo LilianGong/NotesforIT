@@ -107,6 +107,7 @@ uname -r *check for the OS kernel version* <br>
 apt  full-upgrade *upgrade the OS system, but do remember to 'apt update' first to update the application sources* <br> 
 
 * ####  Partition Management<br>
+lsblk<br>
 parted -l *show all the partitions that connected to the computer* <br>
 
 sudo parted /dev/sdb --> print *enter the parted command line and show the infomation of the disk* <br>
@@ -117,7 +118,7 @@ mkpart primary ext4 1MiB 5 GiB *make a partition named as primary with ext4 file
 
 quit --> mkfs  -t ext4 /dev/sdb1 *format the partition with the file system using mkfs*<br>
 
-sudo mount /dev/sdb1/my-usb *mount the partition*<br>
+sudo mount /dev/sdb1 /my-usb *mount the partition*<br>
 du -h *show disks usage* <br> 
 
 
@@ -128,5 +129,5 @@ du -h *show disks usage* <br>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjExODU0NDVdfQ==
+eyJoaXN0b3J5IjpbMTI2MTQ5MjU0OSwtMTQ2MTE4NTQ0NV19
 -->

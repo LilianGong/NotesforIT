@@ -1,6 +1,7 @@
 >## Basic Command Lines for LINUX
 
 * #### list directory<br>
+pwd *show current dirctory*<br>
 ls / *show files in the root directory*<br>
 ls ~/workspace<br>
 ls -l ~/workspace *list detailed 
@@ -143,6 +144,7 @@ vi ~/.zshrc *change settings for the shell* <br>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3ODg5MjY1MywxODg0MDc5ODI4LDU4OT
-QxNzI5NCwxNTY4NTE2NDMsLTE0NjExODU0NDVdfQ==
+eyJoaXN0b3J5IjpbMTUyMTEyNzE5NCwxODc4ODkyNjUzLDE4OD
+QwNzk4MjgsNTg5NDE3Mjk0LDE1Njg1MTY0MywtMTQ2MTE4NTQ0
+NV19
 -->

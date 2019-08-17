@@ -125,9 +125,10 @@ quit --> mkfs  -t ext4 /dev/sdb1 *format the partition with the file system usin
 sudo mount /dev/sdb1 /my-usb *mount the partition*<br>
 du -h *show disks usage* <br> 
 
-* ####  <br>
+* ####  about Shells<br>
 cat /etc/shells *check for the OS kernel version* <br> 
 echo $SHELL *check the current shell that is being used* <br> 
+chsh -s  *check the current shell that is being used* <br> 
 
 
 
@@ -135,6 +136,6 @@ echo $SHELL *check the current shell that is being used* <br>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDE5MDQ3MjksMTU2ODUxNjQzLC0xND
-YxMTg1NDQ1XX0=
+eyJoaXN0b3J5IjpbLTk0NDIzOTYzMiwxNTY4NTE2NDMsLTE0Nj
+ExODU0NDVdfQ==
 -->

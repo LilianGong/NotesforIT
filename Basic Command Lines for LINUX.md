@@ -132,8 +132,9 @@ chsh -s $(which zsh)  OR bash -c zsh *change shell from original to zshell* <br>
 
 * ####  install and set up for oh-my-zsh<br>
  *check for the OS kernel version* <br> 
-git clone git://github.com/robbyrussell/oh-my-zsh.git ~/.oh-my-zsh *clone to the * <br> 
-chsh -s $(which zsh)  OR bash -c zsh *change shell from original to zshell* <br> 
+git clone git://github.com/robbyrussell/oh-my-zsh.git ~/.oh-my-zsh *clone to the computer* <br> 
+cp ~/.oh-my-zsh/templates/zshrc.zsh-template ~/.zshrc *copy the file into .zshrc* <br> 
+vi ~ *clone to the computer* <br> 
 
 
 
@@ -141,6 +142,6 @@ chsh -s $(which zsh)  OR bash -c zsh *change shell from original to zshell* <br>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwNzQ2NzUyNyw1ODk0MTcyOTQsMTU2OD
+eyJoaXN0b3J5IjpbMTQ1NjA4NTI2MCw1ODk0MTcyOTQsMTU2OD
 UxNjQzLC0xNDYxMTg1NDQ1XX0=
 -->

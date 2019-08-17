@@ -88,6 +88,7 @@ brew uninstall <br>
 brew list<br>
 brew -v  *check version*<br>
 brew cask install *install software with GUI* <br>
+brew list  *search for software's directory * <br>
 
 * #### Archive in LINUX<br>
 tar -cvf tarname.tar file1  file2 file3 *make tarfile with file1*<br>
@@ -142,6 +143,6 @@ vi ~/.zshrc *change settings for the shell* <br>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4NDA3OTgyOCw1ODk0MTcyOTQsMTU2OD
-UxNjQzLC0xNDYxMTg1NDQ1XX0=
+eyJoaXN0b3J5IjpbMTg3ODg5MjY1MywxODg0MDc5ODI4LDU4OT
+QxNzI5NCwxNTY4NTE2NDMsLTE0NjExODU0NDVdfQ==
 -->

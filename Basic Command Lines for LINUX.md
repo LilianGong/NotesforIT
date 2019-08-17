@@ -128,7 +128,7 @@ du -h *show disks usage* <br>
 * ####  about Shells<br>
 cat /etc/shells *check for the OS kernel version* <br> 
 echo $SHELL *check the current shell that is being used* <br> 
-chsh -s $(which zsh) *change shell from original to zshell* <br> 
+chsh -s $(which zsh)  OR bash -c zsh *change shell from original to zshell* <br> 
 
 
 
@@ -136,6 +136,6 @@ chsh -s $(which zsh) *change shell from original to zshell* <br>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyMTA3ODcyNiwxNTY4NTE2NDMsLTE0Nj
-ExODU0NDVdfQ==
+eyJoaXN0b3J5IjpbNTg5NDE3Mjk0LDE1Njg1MTY0MywtMTQ2MT
+E4NTQ0NV19
 -->

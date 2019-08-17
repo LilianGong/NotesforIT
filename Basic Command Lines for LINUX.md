@@ -130,12 +130,17 @@ cat /etc/shells *check for the OS kernel version* <br>
 echo $SHELL *check the current shell that is being used* <br> 
 chsh -s $(which zsh)  OR bash -c zsh *change shell from original to zshell* <br> 
 
+* ####  install and set up for oh-my-zsh<br>
+ *check for the OS kernel version* <br> 
+git clone git://github.com/robbyrussell/oh-my-zsh.git ~/.oh-my-zsh *clone to the * <br> 
+chsh -s $(which zsh)  OR bash -c zsh *change shell from original to zshell* <br> 
+
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg5NDE3Mjk0LDE1Njg1MTY0MywtMTQ2MT
-E4NTQ0NV19
+eyJoaXN0b3J5IjpbMjAwNzQ2NzUyNyw1ODk0MTcyOTQsMTU2OD
+UxNjQzLC0xNDYxMTg1NDQ1XX0=
 -->

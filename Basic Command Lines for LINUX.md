@@ -87,7 +87,7 @@ brew install <br>
 brew uninstall <br>
 brew list<br>
 brew -v  *check version*<br>
-brew cask install -- install softw<br>
+brew cask install *install software with GUI* <br>
 
 * #### Archive in LINUX<br>
 tar -cvf tarname.tar file1  file2 file3 *make tarfile with file1*<br>
@@ -125,7 +125,9 @@ quit --> mkfs  -t ext4 /dev/sdb1 *format the partition with the file system usin
 sudo mount /dev/sdb1 /my-usb *mount the partition*<br>
 du -h *show disks usage* <br> 
 
-
+* ####  check shells<br>
+cat /etc/shells *check for the OS kernel version* <br> 
+apt  full-upgrade *upgrade the OS system, but do remember to 'apt update' first to update the application sources* <br> 
 
 
 
@@ -133,6 +135,6 @@ du -h *show disks usage* <br>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk5MzA2MzQwLDE1Njg1MTY0MywtMTQ2MT
-E4NTQ0NV19
+eyJoaXN0b3J5IjpbLTMwMTY2NTM4OCwxNTY4NTE2NDMsLTE0Nj
+ExODU0NDVdfQ==
 -->

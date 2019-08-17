@@ -125,9 +125,9 @@ quit --> mkfs  -t ext4 /dev/sdb1 *format the partition with the file system usin
 sudo mount /dev/sdb1 /my-usb *mount the partition*<br>
 du -h *show disks usage* <br> 
 
-* ####  check shells<br>
+* ####  <br>
 cat /etc/shells *check for the OS kernel version* <br> 
-apt  full-upgrade *upgrade the OS system, but do remember to 'apt update' first to update the application sources* <br> 
+echo $SHELL *check the current shell that is being used* <br> 
 
 
 
@@ -135,6 +135,6 @@ apt  full-upgrade *upgrade the OS system, but do remember to 'apt update' first 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwMTY2NTM4OCwxNTY4NTE2NDMsLTE0Nj
-ExODU0NDVdfQ==
+eyJoaXN0b3J5IjpbLTEyNDE5MDQ3MjksMTU2ODUxNjQzLC0xND
+YxMTg1NDQ1XX0=
 -->

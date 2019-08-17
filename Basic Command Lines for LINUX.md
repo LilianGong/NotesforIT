@@ -80,10 +80,14 @@ dpkg -r xxx.deb *'r' flag refers to uninstall xxx.deb* <br>
 dpkg -l  *'l' flag refers to list all installed packages* <br>
 
 ##### for mac OS:<br>
+
+install homebrew <br>
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"<br>
 brew install <br>
 brew uninstall <br>
 brew list<br>
 brew -v  *check version*<br>
+brew cask install -- install softw<br>
 
 * #### Archive in LINUX<br>
 tar -cvf tarname.tar file1  file2 file3 *make tarfile with file1*<br>
@@ -129,5 +133,6 @@ du -h *show disks usage* <br>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2ODUxNjQzLC0xNDYxMTg1NDQ1XX0=
+eyJoaXN0b3J5IjpbOTk5MzA2MzQwLDE1Njg1MTY0MywtMTQ2MT
+E4NTQ0NV19
 -->
